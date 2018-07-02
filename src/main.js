@@ -20,8 +20,6 @@ Vue.config.productionTip = false;
   router,
   components: { App },
   template: '<App/>'
-
-
 });
 vue.$Loading.config({
   color: 'yellow',
