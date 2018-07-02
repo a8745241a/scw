@@ -1,0 +1,18 @@
+"commondata":{
+    registInfo:{
+    show:false,
+    userName:"",
+    password:"",
+    checkPasswrod:"",
+    email:"",
+    authCode:"",
+    src:""
+    },
+    loginInfo:{
+    // avatar:require('../../assets/img/default.jpg'),
+    show:false,
+    userName:"admin",
+    password:"admin",
+    logined:false
+    }
+}
